@@ -21,7 +21,6 @@ This course is taught by Jose Portilla at Udemy and it's a comprehensive yet str
 - External Modules
 - Object Oriented Programming
 - Inheritance
-- Polymorphism
 - File I/O
 - Advanced Methods
 - Unit Tests
